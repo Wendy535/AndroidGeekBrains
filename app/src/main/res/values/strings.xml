@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">ASlesson1task1</string>
+    <string name="app_name">Lesson1</string>
+    <string name="text_greeting1">Этот проект предсказывает будущее!</string>
+    <string name="text_please_write_something">Напишите здесь "5"</string>
+    <string name="text_you_will_see">Не верите? Сейчас убедитесь!</string>
+    <string name="text_step_one">Шаг первый. Напишите "5" в окне ниже.</string>
+    <string name="text_step2">Шаг второй: для подсчета фаз Луны укажите промежуток времени.</string>
+    <string name="text_1_decade">Сейчас 1-я декада месяца</string>
+    <string name="text_2_decade">Сейчас 2-я декада месяца</string>
+    <string name="text_3_decade">Сейчас 3-я декада месяца</string>
+    <string name="text_step_3">Шаг третий: уточните погодные условия.</string>
+    <string name="text_rainy">Дождь</string>
+    <string name="text_sunny">Солнечно</string>
+    <string name="text_step_4">Нажатием кнопки ниже вы активируете наш контакт с вашей энергией Ци.</string>
+    <string name="activate">Активировать</string>
+    <string name="activated">Активировано</string>
+    <string name="text_are_you_ready">Вы готовы узнать будущее?</string>
+    <string name="text_get_your_forecast">Получить предсказание</string>
+    <string name="text_empty" />
 </resources>
