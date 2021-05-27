@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ALes1Task2</string>
+    <string name="text_intro">Вас приветствует комбинат бытовых услуг имени Павла Морозова младшего. В настоящее время ведется работа по выявлению неблагонадежных жильцов вашего дома. Если вы располагаете информацией о том, что ваши соседи ведут себя непорядочно или нарушают общественное спокойствие, пожалуйста, заполните форму ниже. Ваша бдительность позволит нам своевременно отреагировать!</string>
+    <string name="buttonPush">Отправить заявление</string>
+    <string name="textviewSetResearchDate">Выберите дату начала проверки</string>
+    <string name="textviewDate">Дата заполнения заявления</string>
+    <string name="textviewEmail">E-mail</string>
+    <string name="textviewPhoneNumber">Номер телефона</string>
+    <string name="textviewAddress">Адрес</string>
+    <string name="textviewYourName">ФИО</string>
+    <string name="textViewourContacts">Оставьте свои контактные данные в форме ниже для возможности получения обратной связи.</string>
+    <string name="textViewArgueText">Содержание жалобы</string>
+    <string name="TextViewoomNumber">Номер квартиры</string>
+    <string name="textViewNeighbourName">Имя соседа</string>
 </resources>
